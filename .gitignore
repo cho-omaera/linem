@@ -8,3 +8,4 @@ modules.xml
 /vendor/
 /logs/*
 !/logs/README.md
+/src/settings.php
